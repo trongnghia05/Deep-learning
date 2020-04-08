@@ -1,0 +1,12 @@
+{
+   "config":{
+      "IMAGE_WIDGHT":128,
+      "IMAGE_HEIGHT": 128,
+      "CHANEL" :3,
+      "EPOCH":10000,
+      "LEARNING_RATE": 0.0015,
+      "PATH_FODER_DATA":"C:\\Users\\Trong Nghia\\AppData\\Local\\Programs\\Python\\Python36\\Scripts\\Jupyter file code\\data\\training_set\\data_train",
+	  "PATH_FILE_LABEL":"C:\\Users\\Trong Nghia\\AppData\\Local\\Programs\\Python\\Python36\\Scripts\\Jupyter file code\\label.json",
+	  "PATH_FODER_IMAGE_TEST":"C:\\Users\\Trong Nghia\\AppData\\Local\\Programs\\Python\\Python36\\Scripts\\Jupyter file code\\data\\test_set\\dogs"
+	}
+}
